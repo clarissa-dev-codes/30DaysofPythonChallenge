@@ -1,4 +1,4 @@
-# 30DaysofPythonChallengesDay2
+# 30DaysofPythonChallengesDay3
 ---
 ### What Did I Learn/Review?
 
